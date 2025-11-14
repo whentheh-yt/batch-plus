@@ -1,0 +1,2 @@
+"Hello," $USER "from" $HOST
+echo "Today is" + $DATE + "at" + $TIME

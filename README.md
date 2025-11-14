@@ -25,7 +25,7 @@ Because programming in normal `.bat` is ***SO 1985!!***
 | Manually getting system info      | `$USER`, `$OS`, `$OS.VER`, `$BOOTDRV` etc...                 |
 | Everything is a command or label  | `mkdir("C:\Logs")`, `exists.in_dir("file.txt")`              |
 | `errorlevel` is chunky and global | `if ($EXITCODE != 0)`                                        |
-| NO MODULES??                      | `import utils.batp` <br> `import util.bat`                        |
+| NO MODULES??                      | `import utils.batp` <br> `import util.bat`                   |
 | Can't compile itself              | You can write the compiler in `.batp` if you're crazy enough |
 | `%` hell                          | `"Hello, " + name`                                           |
 ---

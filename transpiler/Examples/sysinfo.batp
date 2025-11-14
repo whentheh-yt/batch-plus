@@ -1,0 +1,6 @@
+echo "OS Version:" + $VER
+echo "Platform:" + $OS
+echo "CPU:" + $CPU
+echo "CPU cores:" + $CPU.COUNT
+echo "RAM Total (MB):" + $RAM.TOTAL
+echo "RAM Free (MB):" + $RAM.FREE

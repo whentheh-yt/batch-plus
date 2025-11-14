@@ -1,0 +1,8 @@
+let COUNT = 3
+if (%COUNT% == 3)
+    "Count is three"
+else
+    "Count is not three"
+endif
+
+echo "Last exit code:" + $EXITCODE
